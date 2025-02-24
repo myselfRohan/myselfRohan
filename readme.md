@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/iamrohan.b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamrohan.b" height="30" width="40" /></a>
-<a href="https://instagram.com/bajra.rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_e.v.i.l" height="30" width="40" /></a>
+<a href="https://fb.com/iamrohan.b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamrohan.b" height="30" width="40" /></a>
+<a href="https://instagram.com/bajra.rohan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_e.v.i.l" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
